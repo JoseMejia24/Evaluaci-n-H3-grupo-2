@@ -37,7 +37,7 @@ Resultados obtenidos en la consola de MongoDB al correr el script `queries.js` (
 
 Para replicar este entorno de manera local, ejecute los siguientes comandos en su terminal con `mongosh` activo:
 
-1. Poblar la base de datos:
+1. Probar la base de datos:
    ```bash
    mongosh < seed.js
    ```
