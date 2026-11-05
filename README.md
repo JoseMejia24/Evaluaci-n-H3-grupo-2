@@ -46,15 +46,5 @@ Para replicar este entorno de manera local, ejecute los siguientes comandos en s
    mongosh < queries.js
    ```
 ---
-## Instrucciones de Uso
-
-Para replicar este entorno de manera local, ejecute los siguientes comandos en su terminal con `mongosh` activo:
-
-1. Poblar la base de datos:
-   ```bash
-   mongosh < seed.js
-   ```
-2. Ejecutar las consultas analíticas:
-   ```bash
    mongosh < queries.js
    ```
